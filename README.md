@@ -1,10 +1,12 @@
 <div align="center">
 
-# Assalamu Alaikum 👋 I'm Abdullah
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C853,100:1B5E20&text=Assalamu%20Alaikum%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;AI+Powered+Developer;Building+Modern+Digital+Experiences" />
+# Abdullah
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:43A047,100:1B5E20&height=230&section=header&text=Welcome%20To%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+Developer;Node.js+Developer;AI+Powered+Developer;Building+Modern+Digital+Experiences" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=22C55E&style=for-the-badge" />
 
 </div>
 
@@ -12,160 +14,50 @@
 
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🌱 Full Stack Web Developer
+💚 Full Stack Web Developer
 
-💻 MERN Stack Enthusiast
+🚀 MERN Stack Enthusiast
+
+💻 React & Node.js Developer
 
 🎨 UI/UX Designer
 
-🤖 AI Assisted Developer
+🤖 AI-Assisted Developer
 
-🚀 Passionate about building scalable web applications
+🌱 Passionate about creating elegant, scalable, and responsive web applications.
 
-💡 Love solving real-world problems with technology
-
-✨ Clean Code • Premium UI • Responsive Design
-
-🌍 Currently Open for
-
-- Remote Jobs
-- UAE Opportunities
-- Freelance Projects
+✨ Clean Code • Modern UI • Performance • User Experience
 
 ---
 
 # 🚀 Tech Stack
 
-### Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,mysql,php,laravel,git,github,vscode,postman,figma,npm,vite" />
 </p>
-
-### Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
-</p>
-
-### Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Design
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" />
-</p>
-
-### Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
-</p>
-
-### AI Tools
-
-- ChatGPT
-- Claude Code
-- Google AI Studio
-- Cursor
-- Codex
-- Gemini
-- GitHub Copilot
 
 ---
 
 # 🌟 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
-## 🛒 MERN E-Commerce
-
-✔ Admin Dashboard
-
-✔ User Panel
-
-✔ Authentication
-
-✔ MVC Architecture
-
-✔ MongoDB
-
-</td>
-
-<td width="50%">
-
-## 👨‍💼 Portfolio Website
-
-✔ Responsive
-
-✔ Modern UI
-
-✔ Animations
-
-✔ SEO Optimized
-
-✔ React
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 📝 Blog Platform
-
-React
-
-Express
-
-MongoDB
-
-Authentication
-
-CRUD
-
-</td>
-
-<td>
-
-## 🏢 Leave Management System
-
-Employee Portal
-
-Admin Dashboard
-
-Attendance
-
-Leave Approval
-
-Reports
-
-</td>
-
-</tr>
-
-</table>
+| Project | Description |
+|---------|-------------|
+| 🛒 MERN E-Commerce | Admin Dashboard, Authentication, MVC Architecture |
+| 💼 Portfolio Website | Modern UI, Responsive Design, Animations |
+| 📝 Blog Platform | MERN Stack CRUD Application |
+| 🏢 Leave Management System | Attendance, Leave Approval, Employee Portal |
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -175,27 +67,27 @@ Reports
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# 📉 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
 
 </p>
 
 ---
 
-# ⚡ Contribution Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -203,42 +95,52 @@ Reports
 
 # 🐍 Contribution Snake
 
+> Enable the GitHub Action first.
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://abdullah-portfolio-7iqn.onrender.com">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-success?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+
+---
+
+# 💻 Quote
+
+<div align="center">
+
+### "Turning Ideas Into Scalable Digital Solutions."
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💚 "Every Line of Code Tells a Story."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,50:43A047,100:00C853&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1B5E20,100:00C853"/>
 
 </div>
