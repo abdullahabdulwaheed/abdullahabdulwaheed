@@ -1,52 +1,38 @@
-<h1 align="center">
-  Hi 👋, I'm Abdullah A
-</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack MERN Developer • Web Designer • UI/UX Enthusiast • AI Vibe Coder
-</h3>
+# Assalamu Alaikum 👋 I'm Abdullah
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;PHP+%7C+Laravel+Developer;WordPress+Developer;AI+Powered+Web+Application+Builder;Always+Learning+New+Technologies+🚀" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;AI+Powered+Developer;Building+Modern+Digital+Experiences" />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=22c55e&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:43A047,100:1B5E20&height=230&section=header&text=Welcome%20To%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+</div>
 
 ---
 
 # 💫 About Me
 
-💻 Full Stack MERN Developer
+<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-🎨 Passionate UI/UX Designer
+🌱 Full Stack Web Developer
 
-⚡ Building Modern Responsive Websites
+💻 MERN Stack Enthusiast
 
-🤖 Exploring AI Powered Development
+🎨 UI/UX Designer
 
-🌱 Currently Learning
+🤖 AI Assisted Developer
 
-- Advanced MERN Stack
-- Next.js
-- AI Development
-- Cloud Deployment
-- System Design
+🚀 Passionate about building scalable web applications
 
-🎯 Goal
+💡 Love solving real-world problems with technology
 
-Build premium scalable web applications that solve real business problems.
+✨ Clean Code • Premium UI • Responsive Design
 
----
+🌍 Currently Open for
 
-# 🌐 Portfolio
-
-### 🚀 Live Portfolio
-
-🔗 https://abdullah-portfolio-7iqn.onrender.com/
+- Remote Jobs
+- UAE Opportunities
+- Freelance Projects
 
 ---
 
@@ -55,56 +41,121 @@ Build premium scalable web applications that solve real business problems.
 ### Frontend
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,figma"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite" />
 </p>
 
 ### Backend
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
 </p>
 
 ### Database
 
 <p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+### Design
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" />
 </p>
 
 ### Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
 </p>
 
 ### AI Tools
 
-- OpenAI Codex
+- ChatGPT
 - Claude Code
-- Cursor AI
 - Google AI Studio
-- Google Stitch
+- Cursor
+- Codex
+- Gemini
+- GitHub Copilot
 
 ---
 
-# ⭐ Featured Projects
+# 🌟 Featured Projects
 
-🚀 MERN Portfolio Website
+<table>
+<tr>
 
-🎯 Leave Management System
+<td width="50%">
 
-🛒 MERN E-Commerce Website
+## 🛒 MERN E-Commerce
 
-📝 Blog CMS Platform
+✔ Admin Dashboard
 
-🌿 Nature Green Organic Store
+✔ User Panel
+
+✔ Authentication
+
+✔ MVC Architecture
+
+✔ MongoDB
+
+</td>
+
+<td width="50%">
+
+## 👨‍💼 Portfolio Website
+
+✔ Responsive
+
+✔ Modern UI
+
+✔ Animations
+
+✔ SEO Optimized
+
+✔ React
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 📝 Blog Platform
+
+React
+
+Express
+
+MongoDB
+
+Authentication
+
+CRUD
+
+</td>
+
+<td>
+
+## 🏢 Leave Management System
+
+Employee Portal
+
+Admin Dashboard
+
+Attendance
+
+Leave Approval
+
+Reports
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -120,6 +171,8 @@ Build premium scalable web applications that solve real business problems.
 
 ---
 
+# 📈 Most Used Languages
+
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -128,21 +181,21 @@ Build premium scalable web applications that solve real business problems.
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophy
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=7&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# ⚡ Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact"/>
 
 </p>
 
@@ -152,44 +205,40 @@ Build premium scalable web applications that solve real business problems.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-# 🌎 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
+
+<a href="https://abdullah-portfolio-7iqn.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 💡 Quote of the Day
+### 💚 "Every Line of Code Tells a Story."
 
-> "Code is not just about solving problems. It's about creating experiences."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,50:43A047,100:00C853&height=120&section=footer"/>
 
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:2196F3&height=150&section=footer"/>
-
-</p>
+</div>
