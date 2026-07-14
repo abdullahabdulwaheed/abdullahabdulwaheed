@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C853,100:1B5E20&text=Assalamu%20Alaikum%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-# Abdullah
+# I'm Abdullah
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+Developer;Node.js+Developer;AI+Powered+Developer;Building+Modern+Digital+Experiences" />
 
